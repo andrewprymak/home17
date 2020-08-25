@@ -1,0 +1,45 @@
+$primary-1: #03a9f4;
+$primary-2: #f75e2e;
+$primary-3: #ecfa4d;
+$primary-4: #656a70;
+
+//light level 1
+$pr-1-light-1:mix(#fff,$primary-1,40%);
+$pr-2-light-1:mix(#fff,$primary-2,40%);
+$pr-3-light-1:mix(#fff,$primary-3,40%);
+$pr-4-light-1:mix(#fff,$primary-4,40%);
+//light level 2
+$pr-1-light-2:mix(#fff,$primary-1,75%);
+$pr-2-light-2:mix(#fff,$primary-2,75%);
+$pr-3-light-2:mix(#fff,$primary-3,75%);
+$pr-4-light-2:mix(#fff,$primary-4,75%);
+//light level 3
+$pr-1-light-3:mix(#fff,$primary-1,90%);
+$pr-2-light-3:mix(#fff,$primary-2,90%);
+$pr-3-light-3:mix(#fff,$primary-3,90%);
+$pr-4-light-3:mix(#fff,$primary-4,90%);
+
+//dark level 1
+$pr-1-dark-1:mix(#000,$primary-1,20%);
+$pr-2-dark-1:mix(#000,$primary-2,20%);
+$pr-3-dark-1:mix(#000,$primary-3,20%);
+$pr-4-dark-1:mix(#000,$primary-4,20%);
+//dark level 2
+$pr-1-dark-2:mix(#000,$primary-1,50%);
+$pr-2-dark-2:mix(#000,$primary-2,50%);
+$pr-3-dark-2:mix(#000,$primary-3,50%);
+$pr-4-dark-2:mix(#000,$primary-4,50%);
+//dark level 3
+$pr-1-dark-3:mix(#000,$primary-1,70%);
+$pr-2-dark-3:mix(#000,$primary-2,70%);
+$pr-3-dark-3:mix(#000,$primary-3,70%);
+$pr-4-dark-3:mix(#000,$primary-4,70%);
+
+
+//fonts
+$font: 'Poppins';
+$font-semibold: 'Poppins-SemiBold';
+$font-light: 'Poppins-Light';
+$font-medium: 'Poppins-medium';
+$font-regular: 'Poppins-regular';
+

@@ -1,0 +1,108 @@
+.colors{
+    width: 500px;
+}
+.colors>div{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 20px;
+}
+.colors>div>div{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 10px;
+    border: 1px solid grey;
+}
+.pr-1{
+    background-color: $primary-1;
+}
+.pr-2{
+    background-color: $primary-2;
+}
+.pr-3{
+    background-color: $primary-3;
+}
+.pr-4{
+    background-color: $primary-4;
+}
+
+//light-1
+.pr-1-light-1{
+    background-color: $pr-1-light-1;
+}
+.pr-2-light-1{
+    background-color: $pr-2-light-1;
+}
+.pr-3-light-1{
+    background-color: $pr-3-light-1;
+}
+.pr-4-light-1{
+    background-color: $pr-4-light-1;
+}
+//light-2
+.pr-1-light-2{
+    background-color: $pr-1-light-2;
+}
+.pr-2-light-2{
+    background-color: $pr-2-light-2;
+}
+.pr-3-light-2{
+    background-color: $pr-3-light-2;
+}
+.pr-4-light-2{
+    background-color: $pr-4-light-2;
+}
+//light-3
+.pr-1-light-3{
+    background-color: $pr-1-light-3;
+}
+.pr-2-light-3{
+    background-color: $pr-2-light-3;
+}
+.pr-3-light-3{
+    background-color: $pr-3-light-3;
+}
+.pr-4-light-3{
+    background-color: $pr-4-light-3;
+}
+
+//dark-1
+.pr-1-dark-1{
+    background-color: $pr-1-dark-1;
+}
+.pr-2-dark-1{
+    background-color: $pr-2-dark-1;
+}
+.pr-3-dark-1{
+    background-color: $pr-3-dark-1;
+}
+.pr-4-dark-1{
+    background-color: $pr-4-dark-1;
+}
+//dark-2
+.pr-1-dark-2{
+    background-color: $pr-1-dark-2;
+}
+.pr-2-dark-2{
+    background-color: $pr-2-dark-2;
+}
+.pr-3-dark-2{
+    background-color: $pr-3-dark-2;
+}
+.pr-4-dark-2{
+    background-color: $pr-4-dark-2;
+}
+//dark-3
+.pr-1-dark-3{
+    background-color: $pr-1-dark-3;
+}
+.pr-2-dark-3{
+    background-color: $pr-2-dark-3;
+}
+.pr-3-dark-3{
+    background-color: $pr-3-dark-3;
+}
+.pr-4-dark-3{
+    background-color: $pr-4-dark-3;
+}
